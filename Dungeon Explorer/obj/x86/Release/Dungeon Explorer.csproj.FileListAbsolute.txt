@@ -1,0 +1,11 @@
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\bin\Release\Dungeon Explorer.exe.manifest
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\bin\Release\Dungeon Explorer.application
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\bin\Release\Dungeon Explorer.exe
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\bin\Release\Dungeon Explorer.pdb
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\obj\x86\Release\WindowsFormsApplication1.DungeonExplorer.resources
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\obj\x86\Release\Dungeon Explorer.csproj.GenerateResource.Cache
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\obj\x86\Release\Dungeon Explorer.exe.manifest
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\obj\x86\Release\Dungeon Explorer.application
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\obj\x86\Release\Dungeon Explorer.exe
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\obj\x86\Release\Dungeon Explorer.pdb

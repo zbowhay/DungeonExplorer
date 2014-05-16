@@ -1,0 +1,19 @@
+C:\Users\Zac\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Zac\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Zac\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Zac\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Zac\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\Dungeon Explorer.csproj.GenerateResource.Cache
+C:\Users\Zac\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Zac\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Zac\Documents\Visual Studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\bin\Debug\Dungeon Explorer.exe
+C:\Users\Zac\Documents\Visual Studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\bin\Debug\Dungeon Explorer.pdb
+C:\Users\Zac\Documents\Visual Studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Zac\Documents\Visual Studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\obj\x86\Debug\Dungeon Explorer.csproj.GenerateResource.Cache
+C:\Users\Zac\Documents\Visual Studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\obj\x86\Debug\Dungeon Explorer.exe
+C:\Users\Zac\Documents\Visual Studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\obj\x86\Debug\Dungeon Explorer.pdb
+C:\Users\Zac\Documents\Visual Studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\obj\x86\Debug\WindowsFormsApplication1.DungeonExplorer.resources
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\obj\x86\Debug\Dungeon Explorer.csprojResolveAssemblyReference.cache
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\bin\Debug\Dungeon Explorer.exe.manifest
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\bin\Debug\Dungeon Explorer.application
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\obj\x86\Debug\Dungeon Explorer.exe.manifest
+C:\Users\Zac\documents\visual studio 2010\Projects\Dungeon Explorer\Dungeon Explorer\obj\x86\Debug\Dungeon Explorer.application
